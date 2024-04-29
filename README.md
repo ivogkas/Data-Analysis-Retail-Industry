@@ -17,6 +17,6 @@ We also had access to data regarding the geographic location and type (kiosk or 
 
 
 ## Data Analysis
-For the analysis, clustering algorithms (Kmodes, Kmeans and KPrototypes) was conducted on both datasets with the aim of uncovering insights among the clusters (stores segments). For more details, please refer to the PDF file.
+For the analysis, clustering algorithms (Kmodes, Kmeans and KPrototypes) was conducted on both datasets with the aim of uncovering insights among the clusters (store segments). For more details, please refer to the PDF file.
 
 For data preprocessing, analysis, and visualization, the following tools were utilized: Python, RapidMiner and Excel.
